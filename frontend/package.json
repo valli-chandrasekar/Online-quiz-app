@@ -1,6 +1,8 @@
+
 {
   "name": "frontend",
   "version": "1.0.0",
+  "type": "module",
   "description": "Frontend: Vite + React. Run `npm install` then `npm run dev`.",
   "main": "vite.config.js",
   "dependencies": {
